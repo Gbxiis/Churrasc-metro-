@@ -25,4 +25,4 @@ A aplicação é simples de usar e funciona através do preenchimento de um form
 
 Gabriel Bomfim
 
-https://www.linkedin.com/in/gabriel-bomfim-4b5447240/
+https://www.linkedin.com/in/gabriel-bomfim/
